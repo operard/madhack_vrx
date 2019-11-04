@@ -8,7 +8,7 @@ The MadHack VRX Project is an DC Augmented Reality project to resolve Data Cente
 
 ## Home page 
 
-The project documentation is [here](https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/eclipsetoolkit.htm).
+The project documentation is [here](/doc/README.md).
 
 ## Download and Installation
 
