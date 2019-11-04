@@ -12,7 +12,8 @@ The project documentation is [here](/doc/README.md).
 
 You can find all tutorials for VRX Project:
 
-![Functions Tutorial](https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm)
+- https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm
+
 
 ## Download and Installation
 
