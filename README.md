@@ -10,10 +10,15 @@ The MadHack VRX Project is an DC Augmented Reality project to resolve Data Cente
 
 The project documentation is [here](/doc/README.md).
 
+You can find all tutorials for VRX Project:
+
+![Functions Tutorial](https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm)
+
 ## Download and Installation
 
 The VRX Solution can be downloaded from the [releases section on GitHub](https://github.com/operard/madhack_vrx).
 
+![Functions Tutorial](https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm)
 
 ## Changes
 
