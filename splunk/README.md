@@ -27,5 +27,11 @@ docker run -it -p 8000:8000 -p 8089:8089 -p 8088:8088 -e 'SPLUNK_START_ARGS=--ac
 
 ## Splunk Cloud Gateway Configuration 
 
+![Cloud Gateway](https://github.com/operard/madhack_vrx/blob/master/splunk/cloud_gateway_0001.png)
 
+![Cloud Gateway](https://github.com/operard/madhack_vrx/blob/master/splunk/cloud_gateway_0002.png)
+
+![Cloud Gateway](https://github.com/operard/madhack_vrx/blob/master/splunk/cloud_gateway_0003.png)
+
+![Cloud Gateway](https://github.com/operard/madhack_vrx/blob/master/splunk/cloud_gateway_0004.png)
 
