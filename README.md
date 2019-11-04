@@ -12,14 +12,14 @@ The project documentation is [here](/doc/README.md).
 
 You can find all tutorials for VRX Project:
 
-- https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm
+- <a href="https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm">Functions Tutorial</a>
 
 
 ## Download and Installation
 
 The VRX Solution can be downloaded from the [releases section on GitHub](https://github.com/operard/madhack_vrx).
 
-![Functions Tutorial](https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm)
+<a href="https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm">Functions Tutorial</a>
 
 ## Changes
 
