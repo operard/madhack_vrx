@@ -1,0 +1,8 @@
+schema_version: 20180708
+name: getStatus
+version: 0.0.2
+runtime: java
+build_image: fnproject/fn-java-fdk-build:jdk11-1.0.98
+run_image: fnproject/fn-java-fdk:jre11-1.0.98
+cmd: io.fnproject.monitoring.MonitoringVrxFunction::getStatus
+timeout: 120
