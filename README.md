@@ -13,13 +13,14 @@ The project documentation is [here](/doc/README.md).
 You can find all tutorials for VRX Project:
 
 - <a href="https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm">Functions Tutorial</a>
-
+- [Splunk Tutorial](/splunk/README.md)
 
 ## Download and Installation
 
 The VRX Solution can be downloaded from the [releases section on GitHub](https://github.com/operard/madhack_vrx).
 
-<a href="https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm">Functions Tutorial</a>
+- <a href="https://htmlpreview.github.io/?https://github.com/operard/madhack_vrx/blob/master/functions/vrx_fn.htm">Functions Tutorial</a>
+-[Splunk Tutorial](/splunk/README.md)
 
 ## Changes
 
